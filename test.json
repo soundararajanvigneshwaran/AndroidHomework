@@ -1,0 +1,83 @@
+{
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Alex Bob",
+        "email": "alexbob@gmail.com",
+        "phone": "+1 (526) 123-3456"
+      },
+      {
+        "id": 2,
+        "name": "Vijay Kumar",
+        "email": "vijaykumar@gmail.com",
+        "phone": "+1 (456) 921-2345"
+      },
+      {
+        "id": 3,
+        "name": "Deivanayagam Subramani",
+        "email": "deivanayagamsubramani@gmail.com",
+        "phone": "+1 (521) 965-4653"
+      },
+      {
+        "id": 4,
+        "name": "Sethura Pandi",
+        "email": "senthurapandi@gmail.com",
+        "phone": "+1 (543) 765-9007"
+      },
+      {
+        "id": 5,
+        "name": "Dhivesh Senthil",
+        "email": "dhiveshsenthil@gmail.com",
+        "phone": "+1 (765) 234-6578"
+      },
+      {
+        "id": 6,
+        "name": "Singam Two",
+        "email": "singamtwo@gmail.com",
+        "phone": "+1 (614) 964-5432"
+      },
+      {
+        "id": 7,
+        "name": "Chinna Thambi",
+        "email": "chinnathambi@gmail.com",
+        "phone": "+1 (543) 786-7865"
+      },
+      {
+        "id": 8,
+        "name": "Illaya Thalapathy",
+        "email": "illayathalapathy@gmail.com",
+        "phone": "+1 (342) 678-3421"
+      },
+      {
+        "id": 9,
+        "name": "Ashok Kumar",
+        "email": "ashok kumar@gmail.com",
+        "phone": "+1 (654) 432-7665"
+      },
+      {
+        "id": 10,
+        "name": "Selva Mari",
+        "email": "selvamari@gmail.com",
+        "phone": "+1 (213) 984-6548"
+      },
+      {
+        "id": 11,
+        "name": "Ajith Kumar",
+        "email": "ajithkumar@gmail.com",
+        "phone": "+1 (987) 849-6219"
+      },
+      {
+        "id": 12,
+        "name": "Stalin Udhaya",
+        "email": "stalinudhaya@gmail.com",
+        "phone": "+1 (998) 403-2134"
+      },
+
+      {
+        "id": 13,
+        "name": "Makkal Selvan",
+        "email": "makkalselvan@gmail.com",
+        "phone": "+1 (453) 879-2376"
+      }
+    ]
+}
